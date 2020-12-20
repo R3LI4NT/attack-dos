@@ -6,7 +6,7 @@ A diferencia del DDoS, no necesita atacar de varios puntos diferentes (ordenador
 ```
 • apt-get update
 • sudo apt-get install python3
-• git clone https://github.com/r3li4nt/scanner
+• git clone https://github.com/r3li4nt/attack-dos
 ```
 ###### Ejecutar script
 ```
