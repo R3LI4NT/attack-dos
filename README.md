@@ -14,3 +14,5 @@ A diferencia del DDoS, no necesita atacar de varios puntos diferentes (ordenador
 ```
 
 ## CAPTURAS
+![Captura de pantalla (158)](https://user-images.githubusercontent.com/75953873/102716586-93262400-42bb-11eb-8f5b-debc1be3b675.png)
+![Captura de pantalla (159)](https://user-images.githubusercontent.com/75953873/102716588-94575100-42bb-11eb-8a8a-361216f91b83.png)
